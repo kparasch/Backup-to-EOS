@@ -28,3 +28,4 @@ Host *.cern.ch lxplus*
 ```
 modifying the ```User``` variable as necessary.
 
+Run ```kinit``` and ```aklog``` to enable afs access without asking password each time.
